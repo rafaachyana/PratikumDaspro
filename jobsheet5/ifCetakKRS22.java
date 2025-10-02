@@ -10,7 +10,6 @@ public class ifCetakKRS22 {
             System.out.println("Pembayaran UKT terverifikasi.");
             System.out.println("Silakan cetak KRS dan minta tanda tangan DPA");
         }
-        
         sc.close();
     }
     
